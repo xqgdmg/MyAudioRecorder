@@ -1,0 +1,2 @@
+# MyAudioRecorder
+AudioRecorder和MediaRecorder的区别，使用MediaRecorder进行声音录制简单方便，不需要理会中间录制过程。结束录制后可以直接得到音频文件进行播放。如果要对声音进行后期的处理，或者需要生成wav的后缀名的声音文件，必须使用AudioRecorder
